@@ -4,6 +4,8 @@ Este proyecto es un asistente de cine inteligente capaz de razonar, recordar los
 
 **Link del Deploy:** [https://my-app-mu-eight-98.vercel.app](https://my-app-mu-eight-98.vercel.app)
 
+<img width="1857" height="940" alt="image" src="https://github.com/user-attachments/assets/2f6def79-2960-441e-96f4-66e67991275a" />
+
 
 
 ## 🚀 Propuesta de Valor
