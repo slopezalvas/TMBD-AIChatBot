@@ -1,4 +1,4 @@
-# 🎬 Gleni Cine Assistant - AI Chatbot
+# 🎬 Cine Assistant - AI Chatbot
 
 Este proyecto es un asistente de cine inteligente capaz de razonar, recordar los gustos del usuario y buscar películas en tiempo real. No es un simple "wrapper" de ChatGPT; es un sistema integrado que utiliza herramientas nativas de IA, persistencia avanzada en base de datos y consumo de APIs externas con lógica de filtrado profesional.
 
@@ -138,3 +138,6 @@ La aplicación cuenta con una lógica de auto-semillado. Si la tabla de géneros
 - **Persistencia Avanzada:** Guardado de historial completo y preferencias específicas.
 - **Multilingüe:** Detección y respuesta automática en el idioma del usuario.
 - **Optimización de Imágenes:** Uso de next/image para el renderizado de posters.
+
+---
+Developed with ❤️ by [![LinkedIn](https://img.shields.io/badge/Sofia_Lopez_Alvas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sofia-lopez-alvas/)
